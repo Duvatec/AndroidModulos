@@ -21,3 +21,7 @@ Descargar Fast-Android-Networking
 https://github.com/amitshekhariitbhu/Fast-Android-Networking (Esta en Java pero es facil pasarlo a Kotlin).
 
 Para este ejemplo se utliliza kotlin y la arquitectura esta basada en MVP reducida.
+
+#Mejoras
+
+Si tienes alguna idea de como mejorar esta libreria envianos un mensaje y tu ejemplo, lo pondremos con gusto para contribuir con la mejora de código
